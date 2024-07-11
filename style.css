@@ -19,7 +19,7 @@
     border-radius: 10px;
 }
 .to-do h2{
-    color: crimson;
+    color: rgb(5, 0, 1);
     display: flex;
     margin-bottom: 30px;
     
@@ -48,7 +48,7 @@ button{
     border: none;
     outline: none;
     padding: 16px 50px;
-    background:#ff5945;
+    background:#290603;
     color: #fff;
     font-size: 12px;
     border-radius: 40px;
